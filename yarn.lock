@@ -5270,7 +5270,7 @@ vite-plugin-checker@^0.6.2:
     vscode-languageserver-textdocument "^1.0.1"
     vscode-uri "^3.0.2"
 
-vite-plugin-inspect@^0.7.38:
+vite-plugin-inspect@^0.7.38, vite-plugin-inspect@^0.7.39:
   version "0.7.39"
   resolved "https://registry.yarnpkg.com/vite-plugin-inspect/-/vite-plugin-inspect-0.7.39.tgz#d2cb1b39c5ce53b0e750e7162ae00a72778cb359"
   integrity sha512-iVQccBPqeukeWoN0WnkvIoj58kUiYKMZAs6Jy8/bzhtDByB239y8KnJKIwGD9O3d4LcksdE91T2H2bKWAYiqQg==
@@ -5436,6 +5436,7 @@ wide-align@^1.1.2, wide-align@^1.1.5:
     string-width "^1.0.2 || 2 || 3 || 4"
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
