@@ -15,7 +15,10 @@
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
   },
-  "dependencies": {
-    "vite-plugin-inspect": "^0.7.39"
+  "volta": {
+    "node": "18.18.0"
+  },
+  "overrides": {
+    "vite-plugin-inspect": "0.7.38"
   }
 }
