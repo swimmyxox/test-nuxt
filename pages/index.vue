@@ -1,5 +1,5 @@
 <template>
   <div>
-    Home
+    Top page
   </div>
 </template>
