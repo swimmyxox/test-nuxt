@@ -28,14 +28,8 @@ jobs:
           review_simple_changes: true # 細部までレビューを行う
           review_comment_lgtm: true # 修正が問題ない場合はコメントにLGTMを記載する
           system_message: | # PullRequestレビュー用
-            - プロンプトを記載
-            Important:
-              Please write your review in Japanese.
+            language: ja-jp
           summarize: | # PullRequestコメント用
-            - プロンプトを記載
-            Important:
-              Please write your summary in Japanese.
+            language: ja-jp
           summarize_release_notes: | # リリースノート用
-            - プロンプトを記載
-            Important:
-              Please write your release notes in Japanese.
+            language: ja-jp
